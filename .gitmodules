@@ -9,7 +9,7 @@
 	url = https://github.com/free5gc/n3iwf.git
 [submodule "nrf"]
 	path = NFs/nrf
-	url = https://github.com/free5gc/nrf.git
+	url = https://github.com/eggegg123/nrf.git
 [submodule "nssf"]
 	path = NFs/nssf
 	url = https://github.com/free5gc/nssf.git
@@ -18,7 +18,7 @@
 	url = https://github.com/free5gc/pcf.git
 [submodule "smf"]
 	path = NFs/smf
-	url = https://github.com/free5gc/smf.git
+	url = https://github.com/eggegg123/smf.git
 [submodule "udm"]
 	path = NFs/udm
 	url = https://github.com/free5gc/udm.git
